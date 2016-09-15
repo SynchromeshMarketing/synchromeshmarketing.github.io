@@ -1,0 +1,19 @@
+
+/*----------------------*/
+
+
+
+#slider {
+  display: inline-block;
+	  width: 300px;
+	  height:12px;
+	  margin:20px 0px 8px 6px;	
+}
+#controls button {
+  width: 80px;
+}
+#controls input {
+	  display:inline;
+	  padding:2px;
+	  margin:2px;
+}
